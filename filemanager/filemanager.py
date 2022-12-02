@@ -4,7 +4,6 @@ import os
 from tkinter import ttk
 import glob
 import shutil
-import ImageTk
 
 #Create Function to clear the files in panel
 def clear_dir(k):
